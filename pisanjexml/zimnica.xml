@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<zimnica>
+  <povrce>
+    <sastojak1>Kupus</sastojak1>
+    <sastojak2>Kornisoni</sastojak2>
+    <sastojak3>Karfiol</sastojak3>
+  </povrce>
+  <povrce>
+    <sastojak1>Sargarepa</sastojak1>
+    <sastojak2>Krastavac</sastojak2>
+    <sastojak3>Pecurke</sastojak3>
+  </povrce>
+  <povrce>
+    <sastojak1>Paprika</sastojak1>
+    <sastojak2>Paradajz</sastojak2>
+    <sastojak3>Djumbir</sastojak3>
+  </povrce>
+</zimnica>

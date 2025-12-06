@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ucenici>
+  <ucenik>
+    <ID>1</ID>
+    <Ime>Lazar</Ime>
+    <Prezime>Zlatkovic</Prezime>
+    <Prosek>46</Prosek>
+  </ucenik>
+  <ucenik>
+    <ID>2</ID>
+    <Ime>Nikola</Ime>
+    <Prezime>Nikolic</Prezime>
+    <Prosek>32</Prosek>
+  </ucenik>
+  <ucenik>
+    <ID>3</ID>
+    <Ime>Toma</Ime>
+    <Prezime>Timic</Prezime>
+    <Prosek>29</Prosek>
+  </ucenik>
+</ucenici>
